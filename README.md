@@ -1,5 +1,5 @@
 Hi, I’m @prawnguy  
 This is not my main account as I want to keep PrawnBox seperate from that.  
-PrawBox is aims to be a FOSS alternative to the many hidden photo vault apps that alreadt exist.  
+PrawBod aims to be a FOSS alternative to the many hidden photo vault apps that alreadt exist.  
 I wanted to make it because I felt the closed-sourced apps with ads and paid features are hard to trust.  
 I'd like to keep my preferences when it comes to prawns a secret.  
